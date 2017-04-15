@@ -1,0 +1,9 @@
+syntax: glob
+*.iml
+gradlew
+gradlew.bat
+local.properties
+build
+gradle
+.idea
+.gradle

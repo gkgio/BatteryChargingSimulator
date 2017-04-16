@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BatteryChargingSimulator</string>
+    <string name="battery_progress">battery progress</string>
+    <string name="main_page_title">Уровень зарядки</string>
 </resources>

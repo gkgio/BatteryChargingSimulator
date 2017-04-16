@@ -30,8 +30,6 @@
           </shape>
       </item>
 
-     <item android:drawable="@drawable/ic_flash_empty" />
-
       <item>
           <clip
               android:clipOrientation="vertical"
@@ -48,11 +46,6 @@
           </clip>
       </item>
 
-     <item>
-         <clip
-             android:clipOrientation="vertical"
-             android:drawable="@drawable/ic_flash_full"
-             android:gravity="bottom" />
-     </item>
+    <item android:drawable="@drawable/ic_flash_full" />
 
  </layer-list>
